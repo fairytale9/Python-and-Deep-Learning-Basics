@@ -1,3 +1,6 @@
 Task: extract information which we are interested in from the Internet and display it by graphical user interface.
 
-I extracted the daily news and line-up of first team from the official FC Barcelona website.
+I extracted the daily news and line-up of first team from FC Barcelona official website.
+
+main.py contains functions of extracting information from the Internet.
+main_gui.py is about to build the graphical user interface.
